@@ -30,18 +30,22 @@
 ## 📸 截图预览
 
 > 💡 提示：请添加应用截图到 `/screenshots/` 目录并在此处展示
+![](./screenshots/PixPin_2026-02-27_13-45-34.png)
+![](./screenshots/PixPin_2026-02-27_13-46-14.png)
+![](./screenshots/PixPin_2026-02-27_13-46-52.png)
+![](./screenshots/PixPin_2026-02-27_13-47-18.png)
 
 ## 📦 安装方式
 
 ### 方法一：下载预编译版本
-1. 从 [Releases](https://github.com/WJIAEN/Cutting_board/releases) 下载最新版 `ding-mac.zip`
+1. 从 [Releases](https://github.com/WJIAEN-K/Cutting_board/releases) 下载最新版 `ding-mac.zip`
 2. 解压后将 `ding.app` 拖入 `/Applications` 文件夹
 3. 在菜单栏点击图标或按 `⌘P` 使用
 
 ### 方法二：从源码构建
 ```bash
 # 克隆仓库
-git clone https://github.com/WJIAEN/Cutting_board.git
+git clone https://github.com/WJIAEN-K/Cutting_board.git
 cd Cutting_board
 
 # 使用 Xcode 构建
@@ -120,7 +124,7 @@ Cutting_board/
 ### 开发环境搭建
 ```bash
 # 克隆项目
-git clone https://github.com/WJIAEN/Cutting_board.git
+git clone https://github.com/WJIAEN-K/Cutting_board.git
 cd Cutting_board
 
 # 打开 Xcode 项目
@@ -153,9 +157,9 @@ open Cutting_board.xcodeproj
 
 ## 📬 联系方式
 
-- **作者**: WJIAEN
-- **项目地址**: https://github.com/WJIAEN/Cutting_board
-- **问题反馈**: https://github.com/WJIAEN/Cutting_board/issues
+- **作者**: WJIAEN-K
+- **项目地址**: https://github.com/WJIAEN-K/Cutting_board
+- **问题反馈**: https://github.com/WJIAEN-K/Cutting_board/issues
 
 ---
 
