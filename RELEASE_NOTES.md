@@ -30,13 +30,13 @@
 ## 📦 安装方式
 
 ### 方法一：下载预编译版本
-1. 从下方 Assets 下载 `ding-mac.zip`
+1. 从下方 Assets 下载 `ding-1.0.0-arm64.zip`
 2. 解压后将 `ding.app` 拖入 `/Applications` 文件夹
 3. 在菜单栏点击图标或按 `⌘P` 使用
 
 ### 方法二：从源码构建
 ```bash
-git clone https://github.com/WJIAEN/Cutting_board.git
+git clone https://github.com/WJIAEN-K/Cutting_board.git
 cd Cutting_board
 ./build-and-package.sh
 ```
@@ -81,7 +81,7 @@ cd Cutting_board
 
 ## 🐛 Bug 反馈
 
-如遇到问题，请提交 Issue：https://github.com/WJIAEN/Cutting_board/issues
+如遇到问题，请提交 Issue：https://github.com/WJIAEN-K/Cutting_board/issues
 
 ## 🙏 致谢
 

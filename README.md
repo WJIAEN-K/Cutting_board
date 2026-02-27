@@ -38,7 +38,7 @@
 ## 📦 安装方式
 
 ### 方法一：下载预编译版本
-1. 从 [Releases](https://github.com/WJIAEN-K/Cutting_board/releases) 下载最新版 `ding-mac.zip`
+1. 从 [Releases](https://github.com/WJIAEN-K/Cutting_board/releases) 下载最新版 `ding-1.0.0-arm64.zip`
 2. 解压后将 `ding.app` 拖入 `/Applications` 文件夹
 3. 在菜单栏点击图标或按 `⌘P` 使用
 
@@ -167,6 +167,6 @@ open Cutting_board.xcodeproj
 
 **⭐ 如果这个项目对你有帮助，请给一个 Star 支持！** 
 
-Made with ❤️ by WJIAEN
+Made with ❤️ by WJIAEN-K
 
 </div>
