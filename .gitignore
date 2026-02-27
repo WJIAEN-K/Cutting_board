@@ -1,0 +1,64 @@
+# Swift
+
+*.DS_Store
+*.xcuserstate
+**/xcuserdata/**
+*.swiftpm
+**.xcodeproj.project.xcworkspace/contents.xcworkspacedata
+*.moved-aside
+DerivedData/
+.build/
+
+# 构建产物
+build/
+release/
+*.app
+*.zip
+*.dSYM/
+
+# 打包文件
+ding-mac.zip
+*.pen
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~.nib
+localizations.xcloc/
+
+# Carthage
+Carthage/Build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Swift Package Manager
+Packages/
+Package.pins
+Package.resolved
+.swiftpm/
+
+# Xcode
+profile.xcprofile
+xcshareddata/swiftpm/
+.swiftenv-version
+
+# IDE
+.idea/
+.vscode/settings.json
+
+# 测试覆盖率
+coverage/
+
+# 本地化
+localization.xcloc/
+
+# 其他
+.env
+*.pem
+*.key
